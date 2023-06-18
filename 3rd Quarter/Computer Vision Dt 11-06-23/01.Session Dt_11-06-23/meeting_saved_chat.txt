@@ -1,0 +1,541 @@
+09:46:25 From  Amir Rashid  to  Everyone:
+	output neurons now output images
+09:46:40 From  Salma Asif  to  Everyone:
+	can use feature map?
+09:47:17 From  Amir Rashid  to  Everyone:
+	voice gone
+09:47:25 From  Huzaifa Tahir  to  Everyone:
+	Voice issue
+09:47:29 From  Huzaifa Tahir  to  Everyone:
+	No voice
+09:47:35 From  Imran Ahmad  to  Everyone:
+	no voice
+09:50:30 From  Neelam  to  Everyone:
+	sigmoid function
+09:50:36 From  ✏️Maria Sheikh  to  Everyone:
+	sigmoid
+09:50:47 From  Amir Rashid  to  Everyone:
+	Reacted to " sigmoid function" with 👍
+09:51:01 From  Suraiyya Jabeen  to  Everyone:
+	Sir aawaz
+09:51:18 From  Imran Ahmad  to  Everyone:
+	sir Your Internet connection need upgrade....
+09:52:22 From  Moattar Khanum (PIAIC170982)  to  Everyone:
+	voice?
+09:53:30 From  Rizwan Raza  to  Everyone:
+	Some problem, may be they are trying to resolve
+09:53:39 From  MUHAMMAD TAHIR  to  Everyone:
+	I've just begun what Sir has been teaching for the past 50 minutes.
+09:53:46 From  Subhan Ahmed - 188523  to  Everyone:
+	pause the recording.
+09:53:46 From  MUHAMMAD TAHIR  to  Everyone:
+	?
+09:54:04 From  MUHAMMAD TAHIR  to  Everyone:
+	anyone?
+09:54:12 From  Kamal Hassan  to  Everyone:
+	no voice
+09:54:36 From  Amir Rashid  to  Everyone:
+	just wait, sir is doing something
+09:54:40 From  Rizwan Raza  to  Everyone:
+	@Muhammad Tahir
+	CNN
+	Convolutiomal neural networks
+09:54:47 From  Amir Rashid  to  Everyone:
+	Reacted to "@Muhammad Tahir
+	CNN
+	..." with 👍
+09:55:11 From  Rizwan Raza  to  Everyone:
+	Google it to get some idea how is it different from ANN
+09:55:30 From  Rizwan Raza  to  Everyone:
+	Convolutional*
+09:55:31 From  Amir Rashid  to  Everyone:
+	Reacted to "Google it to get som..." with 👏
+09:55:48 From  MUHAMMAD TAHIR  to  Everyone:
+	ok thank you I think it deals with the image processing let me check
+09:56:35 From  Neelam  to  Everyone:
+	yes sir
+09:56:37 From  Sehrish Fatima-Isb  to  Everyone:
+	yes
+09:56:48 From  Rizwan Raza  to  Everyone:
+	Yes it involves filters for convolution
+10:01:28 From  Rizwan Raza  to  Everyone:
+	Sir pls clarify this also,
+	Kernel is always 3 by 3 or it can be different?
+	If different how to select it's dimensions?
+10:01:44 From  Amir Rashid  to  Everyone:
+	Reacted to "Sir pls clarify this..." with 👍
+10:02:56 From  Sehrish Fatima-Isb  to  Everyone:
+	can someone please share here the WhatsApp group link of Sir Nasir , and google drive link   ..because of electricity problem I just disconnected and could not get the links in chat
+10:03:32 From  Imran Ahmad  to  Everyone:
+	https://chat.whatsapp.com/CJWDvtyFI5JDABgSlDUGUJ
+10:03:40 From  Zoha  to  Everyone:
+	Replying to "can someone please s..." 
+	
+	 https://drive.google.com/drive/folders/1ZZjddzcjnJFq3Z4hdPXIY_4B5_-C4vNw?usp=drive_lin
+10:03:44 From  Rizwan Raza  to  Everyone:
+	Reacted to "Sir pls clarify this..." with 👍
+10:03:46 From  Rizwan Raza  to  Everyone:
+	Removed a 👍 reaction from "Sir pls clarify this..."
+10:04:32 From  Haider Ali-PIAIC179345  to  Everyone:
+	Replying to "can someone please s..."
+	
+	https://chat.whatsapp.com/CJWDvtyFI5JDABgSlDUGUJ	https://chat.whatsapp.com/BxdxteVESoTKCb69R2koD5
+10:06:53 From  Faisal Malik  to  Everyone:
+	Replying to "can someone please s..."
+	
+	@Zoha this folder is empty
+10:07:44 From  Zoha  to  Everyone:
+	Replying to "can someone please s..." 
+	
+	 Yes i think sir hasn't shared the book in it
+10:07:51 From  Imran Ahmad  to  Everyone:
+	Sir Please share this presentation for later reference
+10:08:13 From  Amir Rashid  to  Everyone:
+	Reacted to "Sir Please share thi..." with 👍
+10:11:13 From  Kamal Hassan  to  Everyone:
+	please everyone download book
+10:12:10 From  Rizwan Raza  to  Everyone:
+	Reacted to "Deep_Learning_with_Python.pdf" with 👍
+10:12:16 From  Hassan  to  Everyone:
+	Reacted to "Deep_Learning_with_Python.pdf" with ❤️
+10:12:23 From  Rizwan Raza  to  Everyone:
+	Reacted to "please everyone down..." with 👍
+10:12:33 From  Husnain  to  Everyone:
+	Reacted to "Deep_Learning_with_Python.pdf" with 👍
+10:12:35 From  Husnain  to  Everyone:
+	Removed a 👍 reaction from "Deep_Learning_with_Python.pdf"
+10:14:21 From  Amir Rashid  to  Everyone:
+	good
+10:14:24 From  Rizwan Raza  to  Everyone:
+	Filter and kernel are same?
+10:16:36 From  Amir Rashid  to  Everyone:
+	1st layer generate weight
+10:16:53 From  Amir Rashid  to  Everyone:
+	2nd layer known as stateless
+10:18:57 From  Suraiyya Jabeen  to  Everyone:
+	jaisey barrey hisse scan kr k . dot connect kr liyee jaaen
+10:19:06 From  Amir Rashid  to  Everyone:
+	good
+10:23:50 From  Ali Raza Azeemi  to  Everyone:
+	sir ki sun lo pehly
+10:24:04 From  Amir Rashid  to  Everyone:
+	Reacted to "sir ki sun lo pehly" with 👍
+10:24:24 From  Zoha  to  Everyone:
+	Midway class break?
+10:24:44 From  Amir Rashid  to  Everyone:
+	Reacted to "Midway class break? " with 😯
+10:27:25 From  Syed Jawad [185558]  to  Everyone:
+	Reacted to "Midway class break? " with 😯
+10:28:07 From  Jawad Swati  to  Everyone:
+	ڈاؤن لوڈ ہو نہیں رہی۔ بارہا کلِک کر چکا۔
+10:29:53 From  Arslan.Saeed  to  Everyone:
+	try now
+10:31:45 From  Farooq  to  Everyone:
+	Was there anything else also sent to be downloaded? Sorry I joined late...
+10:32:25 From  Arslan.Saeed  to  Everyone:
+	https://drive.google.com/drive/folders/1ZZjddzcjnJFq3Z4hdPXIY_4B5_-C4vNw?usp=drive_lin
+10:33:15 From  Naurez نوریز  to  Everyone:
+	✨️
+10:33:36 From  Farooq  to  Everyone:
+	Thank you Arsalan. The drive shows empty, I hope its empty for everyone else also
+10:33:48 From  Arslan.Saeed  to  Everyone:
+	yes
+10:34:04 From  Farooq  to  Everyone:
+	Reacted to "yes" with 👍
+10:34:06 From  Rizwan Raza  to  Everyone:
+	Google kr k download kr lain.
+	It is freely available.
+10:34:10 From  Arslan.Saeed  to  Everyone:
+	you have whats app group link
+10:34:28 From  Rizwan Raza  to  Everyone:
+	For me it was working.
+	I have just downloaded
+10:35:19 From  Rizwan Raza  to  Everyone:
+	Try this one again.
+10:35:27 From  Maah Noor  to  Everyone:
+	13,13,1 pe maxpool lagany se size kya bnay ga?
+10:37:54 From  Amna Liaqat  to  Everyone:
+	Does anyone have this reference book mentioned in the syllabus? 	"Hands on Machine Learning with Scikit Learn, Keras, and TensorFlow, 2nd Edition by Aurélien Géron"
+10:38:49 From  Umair Asmat  to  Everyone:
+	Q3 Syllabus?
+10:38:55 From  Amna Liaqat  to  Everyone:
+	yes
+10:39:41 From  Amna Liaqat  to  Everyone:
+	Replying to "Does anyone have thi..."
+	
+	Thanks.
+10:39:56 From  Malik Sahab  to  Everyone:
+	Reacted to "Thanks." with 😇
+10:40:03 From  affan asif  to  Everyone:
+	Reacted to "Thanks." with 😇
+10:40:06 From  affan asif  to  Everyone:
+	Removed a 😇 reaction from "Thanks."
+10:41:58 From  Amir Rashid  to  Everyone:
+	more neurons, image underfit
+10:43:12 From  Malik Sahab  to  Everyone:
+	Replying to "Q3 Syllabus?"
+	
+	Q3 Syllabus	https://drive.google.com/file/d/1ILvuhoe8zhVQJw9j6Ez83XUlLQeIneV9/view
+10:44:10 From  Muhammad Asif Iqbal (PIAIC106578)  to  Everyone:
+	right
+10:44:19 From  Farooq  to  Everyone:
+	Do we have only one online class in this semester or Sir Noman or anyone else is also taking another online class?
+10:44:20 From  Amir Rashid  to  Everyone:
+	more neurons, image underfit ?
+10:44:45 From  Huzaifa Tahir  to  Everyone:
+	More neurons, model overfit
+10:45:04 From  Amir Rashid  to  Everyone:
+	Reacted to "More neurons, model ..." with 👍
+10:45:07 From  Suraiyya Jabeen  to  Everyone:
+	Sir neural network m parrhaaya tha
+10:46:21 From  Nazish 3757262  to  Everyone:
+	Sir overfittng and under fitting Ka again bta dain
+10:46:22 From  Hassan  to  Everyone:
+	break hua to acha hoga
+10:46:28 From  Imran Ahmad  to  Everyone:
+	Sir tea break lay lain
+10:46:41 From  Hassan  to  Everyone:
+	Replying to "Sir tea break lay la..."
+	
+	yes tea break
+10:46:42 From  Haider Ali-PIAIC179345  to  Everyone:
+	aik chota sa break
+10:46:59 From  Muhammad Asif Iqbal (PIAIC106578)  to  Everyone:
+	no
+10:47:04 From  Muhammad Asif Iqbal (PIAIC106578)  to  Everyone:
+	class about to end
+10:47:11 From  Imran Ahmad  to  Everyone:
+	Thanks sir
+10:50:05 From  Neelam  to  Everyone:
+	kindly mutes your mics
+10:50:39 From  Amir Rashid  to  Everyone:
+	https://chat.whatsapp.com/CJWDvtyFI5JDABgSlDUGUJ
+10:51:22 From  Amir Rashid  to  Everyone:
+	https://chat.whatsapp.com/BxdxteVESoTKCb69R2koD5
+10:51:54 From  Amir Rashid  to  Everyone:
+	https://drive.google.com/drive/folders/1ZZjddzcjnJFq3Z4hdPXIY_4B5_-C4vNw
+10:54:29 From  Syed Jawad [185558]  to  Everyone:
+	3 mins left?
+10:55:09 From  Owais  to  Everyone:
+	Can anyone pls tell k sir parha kya rahay hain ?
+10:55:33 From  Amir Rashid  to  Everyone:
+	its formatted
+10:58:04 From  ✏️Maria Sheikh  to  Everyone:
+	g sir
+10:58:05 From  Neelam  to  Everyone:
+	yes
+11:01:18 From  Amna Liaqat  to  Everyone:
+	Replying to "Can anyone pls tell ..."
+	
+	Book: Deep Learning with python |	Chapter 5 : Deep learning for computer vision 	Topic: Convoluted networks
+11:04:32 From  Haider Ali-PIAIC179345  to  Everyone:
+	64*9*64+64=36928
+11:05:55 From  Farhan Younas(2020-ag-6562)  to  Everyone:
+	portal py Linux or docker ki videos show ho ri kisi ko? mjhy nahi huin
+11:06:04 From  Moeed Masood  to  Everyone:
+	Reacted to "portal py Linux or d..." with 👍
+11:06:10 From  Muhammad Zuhair Abbas  to  Everyone:
+	Replying to "portal py Linux or d..."
+	
+	nope
+11:06:16 From  Haider Ali-PIAIC179345  to  Everyone:
+	Replying to "portal py Linux or d..."
+	
+	nope
+11:06:26 From  Farhan Younas(2020-ag-6562)  to  Everyone:
+	oook
+11:06:34 From  Neelam  to  Everyone:
+	nope
+11:06:56 From  Haider Ali-PIAIC179345  to  Everyone:
+	64*9*64+64=36928
+11:10:08 From  Amir Rashid  to  Everyone:
+	dense layer
+11:12:59 From  Amir Rashid  to  Everyone:
+	convolution network (cnn)is not classifier
+11:13:10 From  Muhammad Fayyaz  to  Everyone:
+	class kb tk upload ho gi. I have to leave right now
+11:13:36 From  ASIF ALI  to  Everyone:
+	Reacted to "Book: Deep Learnin..." with 👍
+11:14:20 From  Malik Sahab  to  Everyone:
+	Replying to "class kb tk upload h..."
+	
+	12 pm
+11:14:33 From  Salma Asif  to  Everyone:
+	sir please explain global and local patterns.
+11:16:47 From  Amir Rashid  to  Everyone:
+	nice explanation
+11:16:54 From  Ali Raza Azeemi  to  Everyone:
+	Reacted to "nice explanation" with 👏
+11:17:05 From  Ali Raza Azeemi  to  Everyone:
+	Removed a 👏 reaction from "nice explanation"
+11:17:10 From  Abdul Qadir  to  Everyone:
+	Very good 💯 Question
+11:17:23 From  Amir Rashid  to  Everyone:
+	Reacted to "Very good 💯 Questio..." with 👍
+11:18:04 From  Muhammad Shariq Shafiq  to  Everyone:
+	can anyone send the book please
+11:18:17 From  Ali Raza Azeemi  to  Everyone:
+	Reacted to "nice explanation" with 👍
+11:18:29 From  Muhammad Asif Iqbal (PIAIC106578)  to  Everyone:
+	so the question becomes why we started 3x3 kernel on 28 x 28 image?
+11:18:34 From  Jawad Swati  to  Everyone:
+	Thank you mudussir for a realy helpful question.
+11:19:03 From  Muhammad Asif Iqbal (PIAIC106578)  to  Everyone:
+	and even before that why we started with a dataset with images of size 28 x 28?
+11:20:16 From  Amir Rashid  to  Everyone:
+	Reacted to "Thank you mudussir f..." with ❤️
+11:20:36 From  Muddassir iPad  to  Everyone:
+	Replying to "Thank you mudussir f…"
+	Thanks
+11:20:56 From  Amir Rashid  to  Everyone:
+	good
+11:21:19 From  Haider Ali-PIAIC179345  to  Everyone:
+	Replying to "and even before that..."
+	
+	we are using MNIST data set
+11:21:36 From  Hassan  to  Everyone:
+	Replying to "and even before that..."
+	
+	yes
+11:21:36 From  Jawad Swati  to  Everyone:
+	*Muddassir
+11:23:24 From  asghar ibraheem baloch CNC-012105  to  Everyone:
+	Mute ka option hy ooper Bell 🔔 ka option hy
+11:24:39 From  Mohammad Javed  to  Everyone:
+	MOHAMMAD JAVED PIAIC185754
+11:25:10 From  Amir Rashid  to  Everyone:
+	sigmoid is good for binary
+11:25:21 From  Mohammad Javed  to  Everyone:
+	Salam to everyone
+11:26:01 From  Zoha  to  Everyone:
+	Off topic question but my visual studio code isn't running my pandas and numpy library . Even i have already installed it
+11:26:28 From  ejaz  to  Everyone:
+	Replying to "Off topic question b..."
+	
+	did you update
+11:26:31 From  Zoha  to  Everyone:
+	Does anyone know whats the issue
+11:26:45 From  Asad Ur Rahman  to  Everyone:
+	Replying to "Off topic question b..." 
+	
+	 Please share screenshot
+11:26:47 From  Zoha  to  Everyone:
+	Replying to "Off topic question b..." 
+	
+	 Yes . I think i am facing environment issues
+11:26:52 From  Faisal Hussain  to  Everyone:
+	no confusion if use:
+11:27:06 From  Zoha  to  Everyone:
+	Replying to "Off topic question b..." 
+	
+	 Anyone know what i can do ?
+11:27:13 From  Faisal Hussain  to  Everyone:
+	from tensorflow import keras
+11:28:12 From  Piaic 182978  to  Everyone:
+	Sir G colab me save model or Again loading me issue hota hai
+11:28:41 From  Piaic 182978  to  Everyone:
+	Save hone ke baad again load nahi horaha Google Colab me
+11:30:15 From  Malik Sahab  to  Everyone:
+	Replying to "Off topic question b..."
+	
+	Select Anaconda version of Python. See this on how to configure	https://code.visualstudio.com/docs/python/environments#_working-with-python-interpreters
+11:35:32 From  Ali khan  to  Everyone:
+	BCC ki class yt py hoti hain
+11:37:34 From  Mohammad Uzair  to  Everyone:
+	I am new in online batch yahan koi WhatsApp group hai ,is class ka?
+11:38:19 From  Haider Ali-PIAIC179345  to  Everyone:
+	Replying to "I am new in online b..."
+	
+	03323446734	https://chat.whatsapp.com/CJWDvtyFI5JDABgSlDUGUJ	https://chat.whatsapp.com/BxdxteVESoTKCb69R2koD5	https://drive.google.com/drive/folders/1ZZjddzcjnJFq3Z4hdPXIY_4B5_-C4vNw?usp=drive_link
+11:38:28 From  Shahid Khan  to  Everyone:
+	unable to join the Whtsapp group
+11:38:46 From  Hassan  to  Everyone:
+	if 6 rotate it become 9 ?
+11:39:18 From  Farooq  to  Everyone:
+	Replying to "if 6 rotate it becom..."
+	
+	good question
+11:40:53 From  MAdnanSaeed (PIAIC174751)  to  Everyone:
+	AoA, Sir, What about Linux and Docker? Is it possible that a short intro class for these?
+11:42:23 From  Amir Rashid  to  Everyone:
+	cnn more accurate than ann
+11:43:40 From  Amir Rashid  to  Everyone:
+	sir please
+11:43:49 From  Suraiyya Jabeen  to  Everyone:
+	Sir aik Nitish hn aik
+11:44:02 From  Suraiyya Jabeen  to  Everyone:
+	Wo bhi achaar btatey hn
+11:44:28 From  Suraiyya Jabeen  to  Everyone:
+	Acha°
+11:45:23 From  Faisal Hussain  to  Everyone:
+	https://www.youtube.com/playlist?list=PLpFsSf5Dm-pd5d3rjNtIXUHT-v7bdaEIe		Deep Neural Networks by Andrew NG
+11:45:53 From  Asad Ahmed Ansari  to  Everyone:
+	Reacted to "https://www.youtube...." with 😵
+11:46:08 From  Zia  to  Everyone:
+	Reacted to "https://www.youtube...." with 😵
+11:46:10 From  Zia  to  Everyone:
+	Removed a 😵 reaction from "https://www.youtube...."
+11:46:16 From  Nasir Hussain (Faculty)  to  Everyone:
+	https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
+11:46:26 From  Dawar Muhammad  to  Everyone:
+	Pycaret
+11:46:43 From  Rizwan Raza  to  Everyone:
+	Reacted to "https://www.youtube...." with 👍
+11:46:52 From  Faisal Hussain  to  Everyone:
+	tensorflow me bhi built-in models hoty hain
+11:48:27 From  Faisal Hussain  to  Everyone:
+	1 image pe prediction ni deta, you need to pass whole test set then write predictions[0] to get 1st img prediction
+11:49:43 From  Faisal Hussain  to  Everyone:
+	Replying to "1 image pe predictio..."
+	
+	will anyone tell it to Sir. My mic is not working.
+11:50:13 From  Farooq  to  Everyone:
+	:-)
+11:50:59 From  Ali Raza Azeemi  to  Everyone:
+	Reshape
+11:51:24 From  Zoha  to  Everyone:
+	Any have experience working with selenium?
+11:51:39 From  fozia  to  Everyone:
+	yes
+11:51:56 From  Arslan.Saeed  to  Everyone:
+	yes
+11:52:08 From  Salma Asif  to  Everyone:
+	i think add a dimension using argmax, because 1first axis is for batch size.
+11:52:15 From  Zoha  to  Everyone:
+	Replying to "yes" 
+	
+	 Please share from where you learned it?
+11:52:26 From  Umair Asmat  to  Everyone:
+	real headache to scrap web data
+11:52:56 From  Zoha  to  Everyone:
+	Replying to "yes" 
+	
+	 Freelancing k elawa job mil skti he webscraping me?
+11:53:14 From  Mohammad Javed  to  Everyone:
+	Anyone can share book or slids?
+11:53:18 From  zubair  to  Everyone:
+	Replying to "yes"
+	
+	yes mil sakti
+11:53:29 From  fozia  to  Everyone:
+	Replying to "yes"
+	
+	aik project mela tha freelancing mein
+11:53:50 From  Taha  to  Everyone:
+	Replying to "yes"
+	
+	sir wo abhi reshape k baad bhi eroor derha hai
+11:53:55 From  Taha  to  Everyone:
+	Replying to "yes"
+	
+	error
+11:54:36 From  12540  to  Everyone:
+	sir time khatyam hogia h
+11:54:42 From  Zoha  to  Everyone:
+	Suggest plz from where you learned webscraping? Any beginner friendly tutorial
+11:54:46 From  Arslan.Saeed  to  Everyone:
+	Replying to "yes"
+	
+	you start with web driver
+11:54:46 From  Neelam  to  Everyone:
+	Book is already shared in the chat as well as in the wahtsapp group,so so check out
+11:55:24 From  Neelam  to  Everyone:
+	Replying to "Book is already shar..."
+	
+	do check out
+11:55:27 From  Arslan.Saeed  to  Everyone:
+	Replying to "yes"
+	
+	google about selenium web driver and how to use it
+11:55:57 From  Farooq  to  Everyone:
+	Try Octoparse for webscrapping, quiet easy to work with
+11:56:08 From  Umair Asmat  to  Everyone:
+	Replying to "yes"
+	
+	https://www.youtube.com/@MakeDataUseful
+11:56:10 From  Amir Rashid  to  Everyone:
+	Reacted to "Try Octoparse for we..." with 👍
+11:56:14 From  Zoha  to  Everyone:
+	Reacted to "Try Octoparse for we..." with 👍
+11:57:24 From  Waqas Ali (PIAIC183280)  to  Everyone:
+	https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
+11:59:05 From  Farooq  to  Everyone:
+	Replying to "https://www.udacity...."
+	
+	Have to done this course? how long is it?
+11:59:10 From  asghar ibraheem baloch CNC-012105  to  Everyone:
+	Sir aaj k leay kafi hy
+11:59:24 From  Farooq  to  Everyone:
+	Reacted to "Sir aaj k leay kafi ..." with 👍
+11:59:36 From  Hassan  to  Everyone:
+	aj k lie kafi hain sir g
+11:59:45 From  Hassan  to  Everyone:
+	end kartay hain.
+11:59:52 From  Farooq  to  Everyone:
+	Reacted to "aj k lie kafi hain s..." with 👍
+12:00:04 From  12540  to  Everyone:
+	sir time
+12:01:23 From  Faisal Hussain  to  Everyone:
+	plt.matshow(test_images[0])
+12:01:32 From  Faisal Hussain  to  Everyone:
+	to show test image
+12:03:33 From  asghar ibraheem baloch CNC-012105  to  Everyone:
+	Next class main krva dien
+12:03:34 From  Hassan  to  Everyone:
+	anyone knows when our portal will update ?
+12:03:52 From  Zoha  to  Everyone:
+	Replying to "anyone knows when ou..." 
+	
+	 Plz ask sir this
+12:04:14 From  Hassan  to  Everyone:
+	Replying to "anyone knows when ou..."
+	
+	you should ask plz ladies first
+12:04:33 From  ejaz  to  Everyone:
+	sir quarter 1 drive ka link bhi share kr dain
+12:04:36 From  ejaz  to  Everyone:
+	chat m
+12:04:37 From  Farooq  to  Everyone:
+	Reacted to "you should ask plz l..." with ☺️
+12:05:42 From  Amir Rashid  to  Everyone:
+	Reacted to "sir quarter 1 drive ..." with 👍
+12:06:01 From  Asad Baig  to  Everyone:
+	sir quarter 2 drive ka link bhi share kr dain plz
+12:08:35 From  Sibghat Ullah 3120166  to  Everyone:
+	enough for today sir
+12:09:00 From  Mohammad Javed  to  Everyone:
+	Sir kindly reshare
+12:09:13 From  MUHAMMAD TAHIR  to  Everyone:
+	whats group newbna?
+12:09:18 From  Mohammad Javed  to  Everyone:
+	WhatsApp #
+12:09:22 From  MUHAMMAD TAHIR  to  Everyone:
+	link
+12:09:33 From  Nasir Hussain (Faculty)  to  Everyone:
+	https://drive.google.com/drive/folders/18-zNdxK9PZkek-z67iHJlfjMXptNpvox?usp=drive_link
+12:09:36 From  Piaic 182978  to  Everyone:
+	Portal par Linux ke lectures nahi hain
+12:10:15 From  MUHAMMAD TAHIR  to  Everyone:
+	WhatsApp group link
+12:11:05 From  12540  to  Everyone:
+	ok sir allah hafiz
+12:11:33 From  Shahid Khan  to  Everyone:
+	i cannot join Whtsapp group
+12:11:34 From  Hassan  to  Everyone:
+	ok sir Khuda Hafiz
+12:11:35 From  Arslan.Saeed  to  Everyone:
+	https://chat.whatsapp.com/CJWDvtyFI5JDABgSlDUGUJ
+12:12:50 From  Shahid Khan  to  Everyone:
+	in pakistan JD usually equals to visiting moon and coming back
+12:13:13 From  Hassan  to  Everyone:
+	Reacted to "in pakistan JD usual..." with 😂
+12:13:41 From  Huzaifa Tahir  to  Everyone:
+	Reacted to "in pakistan JD usual..." with 😂
+12:13:43 From  Huzaifa Tahir  to  Everyone:
+	Removed a 😂 reaction from "in pakistan JD usual..."
+12:13:51 From  Farooq  to  Everyone:
+	Reacted to "in pakistan JD usual..." with 😎
+12:13:58 From  Muhammad Abdul Basit  to  Everyone:
+	Reacted to "in pakistan JD usual..." with 😂
+12:14:25 From  Malik Sahab  to  Everyone:
+	Reacted to "in pakistan JD usual..." with 😂
