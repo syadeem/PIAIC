@@ -1,0 +1,76 @@
+Step 1: Instance identifier (maxlength = 12 characters; case-sensitive only char & numbers)
+set oracle_sid=mandb
+
+Step 2:
+mkdir z:\app\amir\admin\mandb\adump
+mkdir z:\app\amir\oradata\mandb
+mkdir z:\app\amir\flash_recovery_area\mandb
+
+Step 3:
+oradim -new -sid mandb -startmode manual -pfile z:\app\amir\product\10.2.0\db\database\initmandb.ora
+
+Step 4:
+sqlplus /nolog
+conn / as sysdba
+startup nomount
+create spfile from pfile;	// no need of it, if already being used
+startup force nomount
+
+Step 5:
+create database mandb
+	user sys identified by change_on_install
+	user system identified by manager
+	logfile group 1 ('z:\app\amir\oradata\mandb\redo01.log') size 50m,
+		group 2 ('z:\app\amir\oradata\mandb\redo02.log') size 50m,
+		group 3 ('z:\app\amir\oradata\mandb\redo03.log') size 50m
+	maxlogfiles 5
+	maxlogmembers 5
+	maxloghistory 1
+	maxinstances 1
+	maxdatafiles 100
+	character set US7ASCII
+	extent management local
+	datafile 'z:\app\amir\oradata\mandb\system01.dbf' size 100 reuse
+	sysaux datafile 'z:\app\amir\oradata\mandb\sysaux.dbf' size 100 reuse
+	default tablespace users
+		datafile 'z:\app\amir\oradata\mandb\users01.dbf'
+		size 10m reuse autoextend on maxsize unlimited
+	default temporary tablespace tempts1
+		tempfile 'z:\app\amir\oradata\mandb\temp01.dbf'
+		size 5m reuse
+	undo tablespace undotbs1
+		datafile 'z:\app\amir\oradata\mandb\undotbs01.dbf'
+		size 20m reuse autoextend on maxsize unlimited;
+
+Step 6:
+select status from v$instance;
+
+Step 7:
+@?/rdbms/admin/catalog.sql
+
+@?/rdbms/admin/catproc.sql
+
+conn system/manager
+@?/sqlplus/admin/pupbld.sql
+
+@?/rdbms/admin/scott.sql
+
+set lin 120 pages 120
+select * from emp;
+
+select * from cat;
+
+End of creation
+
+If the CREATE DATABASE command fails, any OMF created are removed.
+The internally generated filenames can be seen when the user selects from
+DBA_DATAFILES,
+V$DATAFILE,
+V$CONTROLFILE, and 
+$LOGFILE.
+
+Both
+DB_CREATE_FILE_DEST and 
+DB_CREATE_ONLINE_LOG_DEST_N 
+can be modified dynamically with the 
+ALTER SYSTEM SET command.

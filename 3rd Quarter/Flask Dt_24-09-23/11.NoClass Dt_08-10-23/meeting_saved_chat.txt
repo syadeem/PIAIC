@@ -1,0 +1,108 @@
+08:55:06 From Shoaib PIAIC17835 To Everyone:
+	Salam
+08:57:52 From Suraiyya Jabeen To Everyone:
+	السلام علیکم
+09:02:59 From Naveed Salman-Isb To Everyone:
+	Wa AlaikumUs Salam
+09:04:12 From Raashid Mehmood To Everyone:
+	wa Alaikum us Sallam
+09:19:02 From Maria Sheikh To Everyone:
+	can anyone tell last class main kya prhaya tha sir na,? i was absent then
+09:20:09 From Malik Sahab To Everyone:
+	Replying to "can anyone tell last..."
+	
+	API development using Flask and some SQL DB related concepts
+09:21:17 From Maria Sheikh To Everyone:
+	Replying to "can anyone tell la..."
+	
+	thanks, recorded class ka link share kr skty please?
+09:22:48 From Malik Sahab To Everyone:
+	Replying to "can anyone tell last..."
+	
+	https://www.youtube.com/watch?v=lGwxkr2K0_I
+09:23:28 From Maria Sheikh To Everyone:
+	Reacted to "https://www.youtub..." with 👍
+09:23:32 From Maria Sheikh To Everyone:
+	Replying to "can anyone tell la..."
+	
+	thanks
+09:24:24 From Malik Sahab To Everyone:
+	Replying to "can anyone tell last..."
+	
+	This is the same one recorded by Amir Bhai and has chat replay as well	https://www.youtube.com/watch?v=V38HZOJ64lQ
+09:24:41 From Muhammad Saqib Khan To Everyone:
+	sir nasir nahi aay abhi tak ???
+09:25:22 From imtiaz ahmad To Everyone:
+	Replying to "can anyone tell last..."
+	
+	no
+09:25:24 From Malik Sahab To Everyone:
+	Nope Class  start nai hui
+09:26:14 From Muhammad Saqib Khan To Everyone:
+	amir Rasheed bha aap pichli class revise kara dain ...
+09:26:39 From Muhammad Saqib Khan To Everyone:
+	malik sahb ap bhi …..
+09:27:24 From Waqas Ali (PIAIC183280) To Everyone:
+	sir ka WhatsApp bhi band ja raha he
+09:27:51 From Malik Sahab To Everyone:
+	Files from last class
+09:28:15 From Waqas Ali (PIAIC183280) To Everyone:
+	sir ka ager koi dusra number kisi ke pass he to us per rabta ker ke check kere
+09:28:36 From Malik Sahab To Everyone:
+	Replying to "malik sahb ap bhi …...."
+	
+	Sorry bro mein nay khud koi practice nai ke. I was wasting my time on Stable Diffusion 😅
+09:33:35 From Amir Rasheed To Everyone:
+	Replying to "sir ka WhatsApp bhi ..."
+	
+	No
+09:36:57 From Zoha To Everyone:
+	Today class off?
+09:37:14 From Amir Rasheed To Everyone:
+	Replying to "Today class off? "
+	
+	not sure
+09:37:17 From imtiaz ahmad To Everyone:
+	maybe
+09:40:30 From Naveed Salman-Isb To Everyone:
+	I am leaving, if started kindly mssg on What'sApp group
+09:43:00 From Hamza To Everyone:
+	data analysis k liye flask kee kia zarurat, it's related to API development. Data analysis k liye to NumPy, Pandas or kuch statistical tests zaruri hoty hai.
+09:43:30 From Amir Rasheed To Everyone:
+	Reacted to "data analysis k liye..." with 👍
+09:43:44 From Arshad Iqbal To Everyone:
+	Reacted to "data analysis k liye..." with 👍
+09:43:57 From Arshad Iqbal To Everyone:
+	thanks/
+09:44:32 From Arshad Iqbal To Everyone:
+	I am unable to understand api
+09:44:56 From Arshad Iqbal To Everyone:
+	my focus is only learn data analysis
+09:45:48 From Amir Rasheed To Everyone:
+	https://www.analyticsinsight.net/10-sql-courses-for-free-and-with-certificate/
+09:47:14 From Hamza To Everyone:
+	Reacted to "data analysis k liye..." with 👍
+09:47:17 From Hamza To Everyone:
+	Removed a 👍 reaction from "data analysis k liye..."
+10:01:50 From Ashraf Makhdoom Syed To Everyone:
+	looks like sir Nasir is having some problem.
+10:03:01 From Faisal To Everyone:
+	Q3 ki abi tk kitni classes hogyi hain?
+10:03:56 From Faisal To Everyone:
+	@Amir Rasheed
+10:03:57 From Faisal To Everyone:
+	[This is an encrypted message]
+10:06:33 From Subhan Ahmed - 188523 To Everyone:
+	sir abhi tuk nahi aye ?
+10:07:22 From Waqas Ali (PIAIC183280) To Everyone:
+	thanks
+10:18:17 From Naveed Salman-Isb To Everyone:
+	I think there should be a SOP, that if the class does not start within 30 minutes, then it should be treated as cancelled.
+10:19:02 From Naveed Salman-Isb To Everyone:
+	Now it is late by 1:20 hrs
+10:22:05 From Maria Sheikh To Everyone:
+	kindly drop a message in whatsapp group if class starts, thanks
+10:25:04 From Sehrish Fatima-Isb To Everyone:
+	class nai ho rai aj..?
+10:26:55 From Ashraf Makhdoom Syed To Everyone:
+	leaving ......... as class is not started

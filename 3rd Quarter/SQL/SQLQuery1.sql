@@ -1,0 +1,15 @@
+SELECT * FROM Customers;
+
+SELECT DISTINCT country from Customers;
+
+SELECT CAST(PostalCode AS DECIMAL(10,2)) FROM Customers WHERE CustomerID = 'ALFKI';
+
+SELECT CAST( PI() AS FLOAT);
+
+SELECT CAST( PI() AS REAL);
+
+SELECT CAST('ABC' AS char(10));
+
+SELECT CAST('ABC' AS varchar(10));
+
+SELECT CAST('ABCDEFGHIGKLMNOPQRST' AS char(10));

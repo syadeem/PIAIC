@@ -1,0 +1,188 @@
+08:58:10 From Raashid Mehmood To Everyone:
+	WA ALAIKUM US SALAAM
+09:05:08 From Naveed Salman To Everyone:
+	AusSalam OAlaikum
+09:05:21 From Mohammad Javed To Everyone:
+	Mohammad Javed-PIAIC185754
+09:05:29 From Mohammad Javed To Everyone:
+	Salam
+09:05:45 From Naveed Salman To Everyone:
+	Hopefully every one happy & Healthy
+09:06:21 From Naveed Salman To Everyone:
+	With pleasant weather of October
+09:10:20 From Aamir Rasheed To Everyone:
+	class started?
+09:12:04 From Naveed Salman To Everyone:
+	Not Yet
+09:14:23 From imtiaz ahmad To Everyone:
+	dobara bolain plz
+09:14:27 From irshad Baig(piaic) To Everyone:
+	no sound
+09:14:31 From Aamir Rasheed To Everyone:
+	Reacted to "Not Yet" with 👍
+09:15:06 From Subhan Ahmed - 188523 To Everyone:
+	no idea
+09:15:57 From Nasir Hussain To Everyone:
+	salam
+09:16:03 From imtiaz ahmad To Everyone:
+	w.assala
+09:16:14 From imtiaz ahmad To Everyone:
+	w.assalam
+09:16:42 From Shoaib PIAIC-178354 To Everyone:
+	Salam
+09:17:25 From abdul-qadir To Everyone:
+	Assalam o Alikum Sir
+09:18:36 From Nasir Hussain To Everyone:
+	ws
+09:19:44 From imtiaz ahmad To Everyone:
+	yes sir
+09:42:23 From Subhan Ahmed - 188523 To Everyone:
+	shouldn't the __name__ be out of commas ?
+09:42:24 From Zoha To Everyone:
+	Is this how api are made?
+09:57:30 From fozia To Everyone:
+	message
+10:02:34 From Zoha To Everyone:
+	Can anyone hear my voice?
+10:04:32 From Malik Sahab To Everyone:
+	sir, does indentation matter in jinja template?	dono for loops aik level per hain
+10:09:03 From fozia To Everyone:
+	clear hai
+10:10:31 From Subhan Ahmed - 188523 To Everyone:
+	route and tab/destination difference bhi bata den , please.
+10:12:25 From fozia To Everyone:
+	restful vs rest api
+10:15:34 From Malik Sahab To Everyone:
+	JavaScript object notation
+10:16:00 From Malik Sahab To Everyone:
+	dictionary like format ,key value pair
+10:16:45 From Suraiyya Jabeen To Everyone:
+	machin aaraam se parrh leti h
+10:16:48 From imtiaz ahmad To Everyone:
+	human readable
+10:25:24 From Suraiyya Jabeen To Everyone:
+	Sir aap ki aawaz achank halki ho jaati h
+10:26:18 From imtiaz ahmad To Everyone:
+	awaz clear hy
+10:27:51 From Ali Raza Azeemi To Everyone:
+	ji
+10:29:47 From Suraiyya Jabeen To Everyone:
+	Sir suggessions bnd tw nahee hn
+10:33:37 From Suraiyya Jabeen To Everyone:
+	data aa raha h
+10:33:43 From Suraiyya Jabeen To Everyone:
+	user ka
+10:40:00 From fozia To Everyone:
+	WhatsApp group link plz
+10:40:46 From Suraiyya Jabeen To Everyone:
+	Sir PIAIC m hamaari entry isi Tarah se hoi h na ???
+10:41:33 From fozia To Everyone:
+	json is fast
+10:42:00 From Suraiyya Jabeen To Everyone:
+	Sub jagah chal skta h
+10:42:09 From Suraiyya Jabeen To Everyone:
+	kuch na kuch
+10:42:32 From fozia To Everyone:
+	strings in memory are more fast,take less space
+10:44:36 From fozia To Everyone:
+	restful vs rest api sir plz explain
+10:48:20 From fozia To Everyone:
+	sir aik image bhi add kar dein if possible
+10:48:49 From Irfan Ahmed To Everyone:
+	no voice
+10:48:58 From imtiaz ahmad To Everyone:
+	no voice
+10:49:05 From Zoha To Everyone:
+	Screen freeze
+10:49:48 From Waqas Ali (PIAIC183280) To Everyone:
+	I think sir ka net disconnect ho gya he
+10:49:51 From Talha Nasim To Everyone:
+	Sir disconnect
+11:02:14 From Zoha To Everyone:
+	Get and post ki key ka name same hona zruri he?
+11:02:23 From Suraiyya Jabeen To Everyone:
+	Sir hum items ko bhi loop k zaryee STORE m store krwaa sktey hn????
+11:02:48 From Nasir Hussain To Everyone:
+	yes
+11:11:51 From Zoha To Everyone:
+	Kindly someone whatsapp the file plz
+11:21:20 From Waqas Ali (PIAIC183280) To Everyone:
+	https://www.youtube.com/watch?v=-GdbYU_Odwo&t=2228s
+11:22:57 From Raashid Mehmood To Everyone:
+	ACCORDING TO SYLLABUS, ONE MORE QUIZ LEFT
+11:24:46 From Raashid Mehmood To Everyone:
+	Deep Learning in Practice Quiz in Week 9
+	Total Questions: 55, Total Time: 75 minutes
+11:25:55 From Raashid Mehmood To Everyone:
+	Microservices in Python Quiz in Week 13
+	Total Questions: 30, Total Time: 45 minutes
+11:25:55 From Aamir Rasheed To Everyone:
+	Reacted to "Deep Learning in Pra..." with 👍
+11:26:05 From Raashid Mehmood To Everyone:
+	IN FACT TWO MORE
+11:31:30 From Irfan Ahmed To Everyone:
+	no voice sir
+11:32:06 From Suraiyya Jabeen To Everyone:
+	ab aa rahi h
+11:36:27 From Aiman 07 To Everyone:
+	Continue
+11:45:05 From Malik Sahab To Everyone:
+	sir ka ka speaker mute hai
+11:45:45 From Irfan Ahmed To Everyone:
+	Sir can u hear us?
+11:46:04 From Moeed Masood To Everyone:
+	we cannot hear u Irgan
+11:46:08 From Irfan Ahmed To Everyone:
+	What we are saying is not going to u sir
+11:46:11 From Moeed Masood To Everyone:
+	Irfan*
+11:46:29 From Mohammad Javed To Everyone:
+	Yes sir
+11:49:29 From fozia To Everyone:
+	sir ye code chat mein dal dein plz
+11:50:00 From Zoha To Everyone:
+	Kindly koe sir ki api file whatsapp group par share krden
+11:50:09 From Zoha To Everyone:
+	Can't download it from here
+11:51:15 From Zoha To Everyone:
+	Plz share this file in whatsapp group someone
+11:56:14 From Aiman 07 To Everyone:
+	Firstname ki spelling sai nhi ha
+12:05:24 From IRFAN KHATTAK To Everyone:
+	Users=details
+12:08:47 From Waqas Ali (PIAIC183280) To Everyone:
+	previous lacture	https://www.youtube.com/watch?v=-GdbYU_Odwo&t=2228s
+12:12:33 From fozia To Everyone:
+	can we connect sqlserver too
+12:16:01 From fozia To Everyone:
+	td, table data
+12:19:08 From fozia To Everyone:
+	will we use mongo too
+12:21:12 From Asghar ibraheem Baloch CNC012105 To Everyone:
+	Replying to "will we use mongo to..." 
+	
+	 Mongo ki documentati...
+12:21:23 From Zoha To Everyone:
+	Sir can we continue in next class  ?
+12:23:04 From Asghar ibraheem Baloch CNC012105 To Everyone:
+	Sql injection
+12:23:51 From Waqas Ali (PIAIC183280) To Everyone:
+	sir folder ko zip ker ke chat main share kar dain
+12:24:05 From Aamir Rasheed To Everyone:
+	Reacted to "sir folder ko zip ke..." with ❤️
+12:24:24 From IRFAN KHATTAK To Everyone:
+	Reacted to sir folder ko zip ke... with "❤️"
+12:24:25 From IRFAN KHATTAK To Everyone:
+	Removed a ❤️ reaction from "sir folder ko zip ke..."
+12:24:57 From fozia To Everyone:
+	sqlite
+12:26:01 From Zoha To Everyone:
+	Reacted to sir folder ko zip ke... with "❤️"
+12:27:05 From fozia To Everyone:
+	yes sir,add images too
+12:27:49 From fozia To Everyone:
+	excellent sir,all was amazing
+12:28:31 From Farooq To Everyone:
+	This is AI stream, we shouldn't spend so much time on Docker and other such stuff. There is a separate batch for that
+12:28:42 From fozia To Everyone:
+	rest api vs restful?

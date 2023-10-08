@@ -1,0 +1,182 @@
+09:03:50 From  Hamza  to  Everyone:
+	Wa Alaikum Assalam Hassan
+09:05:03 From  Mohammad Javed  to  Everyone:
+	MOHAMMAD JAVED-PIAIC185754
+09:05:31 From  Mohammad Javed  to  Everyone:
+	Salam to everyone
+09:05:33 From  Amir Rashid  to  Everyone:
+	السلام علیکم ورحمتہ اللہ وبرکاتہ
+09:05:35 From  Naveed Salman -ISB  to  Everyone:
+	AoA to All
+09:05:42 From  Muhammad Hassan  to  Everyone:
+	Reacted to "Wa Alaikum Assalam H..." with ❤️
+09:06:05 From  Mohammad Javed  to  Everyone:
+	Yes sir
+09:06:10 From  Muhammad Hassan  to  Everyone:
+	Yes sir.
+09:06:27 From  Shoaib PIAIC-178354  to  Everyone:
+	Salam
+09:10:46 From  ia  to  Everyone:
+	Recording
+09:13:06 From  abdul-qadir  to  Everyone:
+	Sir pptx download ni hori
+09:30:15 From  Suraiyya Jabeen  to  Everyone:
+	سر ! زنجیر کی طرح
+09:30:29 From  Muhammad Hassan  to  Everyone:
+	Reacted to "سر ! زنجیر کی طرح " with 👍
+09:30:46 From  Ali Raza Azeemi  to  Everyone:
+	Reacted to "سر ! زنجیر کی طرح " with 👍
+09:31:26 From  saira  to  Everyone:
+	sir  voice
+09:31:33 From  Suraiyya Jabeen  to  Everyone:
+	Reacted to "سر ! زنجیر کی طرح " with 👍
+09:31:42 From  Suraiyya Jabeen  to  Everyone:
+	آواز
+09:31:45 From  Naveed Salman -ISB  to  Everyone:
+	no voice
+09:31:46 From  Suraiyya Jabeen  to  Everyone:
+	سر آواز
+09:31:52 From  Suraiyya Jabeen  to  Everyone:
+	نہیں آرہی
+09:32:04 From  Mohammad Javed  to  Everyone:
+	Sir no voice
+09:32:15 From  Suraiyya Jabeen  to  Everyone:
+	Contrast کے
+09:32:18 From  اسامه سلفى  to  Everyone:
+	clear
+09:32:21 From  Suraiyya Jabeen  to  Everyone:
+	لفظ کے
+09:32:24 From  Suraiyya Jabeen  to  Everyone:
+	بعد
+09:41:41 From  Faisal  to  Everyone:
+	Voice issue
+09:41:52 From  Suraiyya Jabeen  to  Everyone:
+	Sir  ye bilkul aisey hi h jaisey hum language grammar m parrhtey hn
+09:43:08 From  Suraiyya Jabeen  to  Everyone:
+	Ok
+09:43:14 From  Suraiyya Jabeen  to  Everyone:
+	Thanks
+09:45:43 From  Suraiyya Jabeen  to  Everyone:
+	G
+09:47:50 From  hifza  to  Everyone:
+	t-2 se q start hua?? timestamp
+09:50:06 From  M.Dawar  to  Everyone:
+	time representation t-1 past t present t+1 future.
+10:02:24 From  Hamza  to  Everyone:
+	tensroflow.keras type kary
+10:02:48 From  Muhammad Zuhair Abbas  to  Everyone:
+	add tensorflow. before keras
+10:03:25 From  Iftikhar Saeed  to  Everyone:
+	from keras.utils.data_utils import pad_sequences
+10:06:51 From  Muhammad Zuhair Abbas  to  Everyone:
+	from tensorflow.keras.datasets import imdb	from tensorflow.keras.preprocessing import sequence
+10:06:57 From  Muhammad Zuhair Abbas  to  Everyone:
+	this is working for me
+10:07:32 From  Waqas Ali (PIAIC183280)  to  Everyone:
+	from tensorflow.keras.datasets import imdb	from tensorflow.keras.preprocessing import sequence
+10:07:55 From  Haider Ali  to  Everyone:
+	Shuru sy chalain phr
+10:08:56 From  Zeenat Zakir: Piaic134348  to  Everyone:
+	Kindly aap run kr ly sir
+10:13:28 From  Farooq  to  Everyone:
+	We need a GPU for this
+10:16:35 From  M.Dawar  to  Everyone:
+	When you create a new notebook in Colab, you are given access to a virtual machine with a specific CPU and RAM configuration. The default CPU for Colab is an Intel Xeon CPU with 2 vCPUs (virtual CPUs) and 13GB of RAM.
+10:17:15 From  Farooq  to  Everyone:
+	Reacted to "When you create a ne..." with 👍
+10:17:57 From  Farooq  to  Everyone:
+	We should all graduate now to Colab, cant run these even small models on our laptops or PCs
+10:18:14 From  Muhammad Hassan  to  Everyone:
+	Reacted to "We should all gradua..." with 👍
+10:18:34 From  M.Dawar  to  Everyone:
+	Reacted to "We should all gradua..." with 👍
+10:26:08 From  Suraiyya Jabeen  to  Everyone:
+	Sir . Ye baat samjhaney m GIF  acha kaam krey ga
+10:39:08 From  Suraiyya Jabeen  to  Everyone:
+	Is ne block m torr k Rakh liya
+10:43:07 From  Waqas Ali (PIAIC183280)  to  Everyone:
+	val_acc .875
+10:45:41 From  M.Dawar  to  Everyone:
+	Dubarah plot krdein
+10:46:46 From  M.Dawar  to  Everyone:
+	previous wala copy paste krden
+10:50:57 From  aymen noor  to  Everyone:
+	https://colab.research.google.com/drive/1c5SWtDMShEs0eRI3XQ0MSxw3nT6qnt4Y#scrollTo=angZpyWga11y
+11:01:11 From  Muhammad Hassan  to  Everyone:
+	Replying to "https://colab.resear..."
+	
+	access is denied.
+11:07:08 From  aymen noor  to  Everyone:
+	https://colab.research.google.com/drive/1c5SWtDMShEs0eRI3XQ0MSxw3nT6qnt4Y?usp=sharing
+11:07:29 From  Muhammad Hassan  to  Everyone:
+	Reacted to "https://colab.resear..." with 👍
+11:08:08 From  SYED MUSTJAB HYDER  to  Everyone:
+	Give Access plz
+11:08:44 From  aymen noor  to  Everyone:
+	I had given let me see it again
+11:09:51 From  SYED MUSTJAB HYDER  to  Everyone:
+	Yes open now
+11:10:05 From  aymen noor  to  Everyone:
+	oky I had given the access
+11:11:02 From  Suraiyya Jabeen  to  Everyone:
+	Sir . Kitab pr AA jaaen
+11:11:04 From  Haider Ali-PIAIC179345  to  Everyone:
+	screen
+11:12:42 From  Waqas Ali (PIAIC183280)  to  Everyone:
+	Replying to "https://colab.resear..."
+	
+	according to code perfect he
+11:16:34 From  IRFAN  to  Everyone:
+	sir direct Kaggle se ly
+11:16:49 From  Sehrish Fatima-Isb  to  Everyone:
+	SIR CHAT py send kr dayn
+11:17:39 From  Ali Raza Azeemi  to  Everyone:
+	Reacted to "jena_climate_2009_2016.csv" with 👍
+11:18:28 From  Zoha  to  Everyone:
+	Kindly ese whatsapp group share krde koe
+11:18:44 From  Amir Rashid  to  Everyone:
+	Reacted to "jena_climate_2009_2016.csv" with 👍
+11:19:12 From  abdul-qadir  to  Everyone:
+	Sir whatsapp group ma share kr dein yahan se download ni hora
+11:19:45 From  abdul-qadir  to  Everyone:
+	Sir pptx file bhi share krwadein
+11:26:12 From  Muhammad Hassan  to  Everyone:
+	mara pass 420551 araha hain
+11:27:27 From  Muhammad Hassan  to  Everyone:
+	mara pass (420551, 15)
+11:34:49 From  SARIM KHAN  to  Everyone:
+	Reacted to "Kindly ese whatsapp ..." with 👏
+11:36:51 From  IRFAN  to  Everyone:
+	sir line 9 10 reapeat kejey ga plz
+11:37:08 From  Naveed Salman -ISB  to  Everyone:
+	Reacted to "Kindly ese whatsapp ..." with 👏
+11:39:06 From  Suraiyya Jabeen  to  Everyone:
+	Sir . Ye Jo kitab hum parrh rahey hn . Iss ka naam likh dn . Start k 15 minutes hr class m light ki wja se miss ho jaata h
+11:39:22 From  Suraiyya Jabeen  to  Everyone:
+	Sir
+11:39:26 From  Suraiyya Jabeen  to  Everyone:
+	Sirf naam
+11:39:32 From  Suraiyya Jabeen  to  Everyone:
+	Kitab tw h
+11:39:48 From  Suraiyya Jabeen  to  Everyone:
+	Deep learning
+11:42:54 From  Suraiyya Jabeen  to  Everyone:
+	Thanks
+11:46:32 From  Muhammad Sadullah  to  Everyone:
+	thanks
+11:56:56 From  Raja Atif aziz  to  Everyone:
+	Sir API banan kb start karain gy
+11:57:07 From  Muhammad Uzair-177637  to  Everyone:
+	sir timestep thora sa bta da bhool gya ma
+11:57:25 From  Muhammad Uzair-177637  to  Everyone:
+	ok sir
+11:57:28 From  Hamza  to  Everyone:
+	Sir what about CNN project?
+11:57:41 From  Raja Atif aziz  to  Everyone:
+	Thanks sir g
+11:58:49 From  Raja Atif aziz  to  Everyone:
+	Sir what's up group main daal dain
+11:58:58 From  Zoha  to  Everyone:
+	Kindly someone share the books on whatsapp group
+11:59:44 From  abdul-qadir  to  Everyone:
+	Sir yahan download ni hori whats app mashare krdein

@@ -1,0 +1,212 @@
+09:26:35 From  Amir Rashid  to  Everyone:
+	no sir
+09:26:37 From  Malik Sahab  to  Everyone:
+	fit_generator has been deprecated and replaced by normal fit in keras
+09:27:57 From  Maria Sheikh  to  Everyone:
+	transfer learning
+09:36:39 From  Farooq  to  Everyone:
+	Running example made this concept very clear
+09:36:54 From  Hassan  to  Everyone:
+	Reacted to "Running example made..." with 👍
+09:37:05 From  Muhammad Faizan  to  Everyone:
+	Salam, Kindly add me in WhatsApp group of AI Q3, Sir Nasir Hussain. 	My WhatsApp number: 03065375389		Jazak ALLAH
+09:37:15 From  Amir Rashid  to  Everyone:
+	Reacted to "Running example made..." with 👍
+09:40:09 From  Malik Sahab  to  Everyone:
+	Replying to "Salam, Kindly add me..."
+	
+	WhatsApp link	https://chat.whatsapp.com/CJWDvtyFI5JDABgSlDUGUJ
+09:42:01 From  Ammad Mughal (PIAIC 173548)  to  Everyone:
+	Anyone please. Accept me in WhatsApp group.
+10:01:45 From  Ahmad PIAIC  to  Everyone:
+	I cant hear anything
+10:03:23 From  Ahmad PIAIC  to  Everyone:
+	can u plz share the link of the book
+10:04:13 From  Ali Raza Azeemi  to  Everyone:
+	https://drive.google.com/drive/folders/1D2cDuAouTQXTovEHm6nc7E7-AKCkUD7M
+10:08:24 From  Mujtaba Ahmed  to  Everyone:
+	no sir
+10:16:39 From  Malik Sahab  to  Everyone:
+	yes sir clear hai
+10:16:41 From  Mujtaba Ahmed  to  Everyone:
+	yes sir
+10:19:06 From  Ahmad PIAIC  to  Everyone:
+	soory lost connection can u plz share the book link again
+10:19:36 From  Malik Sahab  to  Everyone:
+	Replying to "soory lost connectio..."
+	
+	https://drive.google.com/drive/folders/1D2cDuAouTQXTovEHm6nc7E7-AKCkUD7M
+10:23:09 From  Alina  to  Everyone:
+	sir recording kaha se milegi
+10:23:11 From  Alina  to  Everyone:
+	??
+10:23:17 From  Amir Rashid  to  Everyone:
+	thanks a lot
+10:24:34 From  Ali Raza Azeemi  to  Everyone:
+	https://www.youtube.com/watch?v=wEJkpjW-IZE&list=PLbz7HMwTUM0HZ2IuECHwMVnuK64I_XbgQ
+10:28:33 From  Hifza  to  Everyone:
+	sir inference kia hota h?
+10:29:38 From  Waqas Ali (PIAIC183280)  to  Everyone:
+	sir code ko colab per karwa dain
+10:30:54 From  Amir Rashid  to  Everyone:
+	voice lagging
+10:32:14 From  Hassan  to  Everyone:
+	both are right ab partay hain
+10:32:20 From  Suraiyya Jabeen  to  Everyone:
+	Sir aap k tareeqa sahee h
+10:32:28 From  Gohar  to  Everyone:
+	Reacted to "Sir aap k tareeqa sa…" with 😂
+10:32:33 From  Abdul Qadar  to  Everyone:
+	Reacted to "Sir aap k tareeqa sa..." with ❤️
+10:32:41 From  M.Dawar  to  Everyone:
+	Theoretical  Content ziada hai
+10:32:42 From  Hassan  to  Everyone:
+	Reacted to "Theoretical  Content..." with 👍
+10:32:59 From  Hassan  to  Everyone:
+	Reacted to "Sir aap k tareeqa sa..." with 👍
+10:33:15 From  Gohar  to  Everyone:
+	Sir apka ka parahnay ka method sahi hai exam k liye
+10:33:23 From  Suraiyya Jabeen  to  Everyone:
+	hr teacher ka apna style hota h. student ko quiz ka task dey dn
+10:34:17 From  Farooq  to  Everyone:
+	We need to move on please
+10:34:53 From  Farooq  to  Everyone:
+	Reacted to "hr teacher ka apna s..." with 👍
+10:34:56 From  Zoha  to  Everyone:
+	Reacted to "We need to move on p..." with 👍
+10:35:07 From  Zoha  to  Everyone:
+	Reacted to "Sir aap k tareeqa sa..." with 👍
+10:38:05 From  Malik Sahab  to  Everyone:
+	this is a better way	if not os.path.exists(os.path.join(VALIDATION_DIR_ROOT, cat_dog)):	        os.mkdir(os.path.join(VALIDATION_DIR_ROOT, cat_dog))
+10:38:35 From  Mahzeb Saleem  to  Everyone:
+	Reacted to "this is a better way..." with 👍
+10:38:38 From  Zoha  to  Everyone:
+	Reacted to "hr teacher ka apna s..." with 👍
+10:41:07 From  Malik Sahab  to  Everyone:
+	Import Kaggle data directly to Google Colab: https://www.kaggle.com/general/74235
+10:41:44 From  Amir Rashid  to  Everyone:
+	Reacted to "Import Kaggle data d..." with 👍
+10:41:48 From  Mujtaba Ahmed  to  Everyone:
+	Reacted to "Import Kaggle data d..." with 👍
+10:41:53 From  Amir Rashid  to  Everyone:
+	Reacted to "this is a better way..." with 👍
+10:41:57 From  Gohar  to  Everyone:
+	Reacted to "Import Kaggle data d…" with ❤️
+10:42:01 From  Gohar  to  Everyone:
+	Reacted to "this is a better way…" with 👌
+10:42:04 From  Hassan  to  Everyone:
+	Reacted to "Import Kaggle data d..." with ❤️
+10:44:41 From  Farooq  to  Everyone:
+	sorry, what exactly is happening right now?
+10:44:58 From  Farooq  to  Everyone:
+	Ok sir got it
+10:45:42 From  Malik Sahab  to  Everyone:
+	how does Data Generator decides classes. Like it says  in code "Found 2000 images belonging to 2 classes"
+10:46:19 From  Malik Sahab  to  Everyone:
+	ok sir thank 👍
+10:46:33 From  Farooq  to  Everyone:
+	Good question
+10:47:38 From  Malik Sahab  to  Everyone:
+	Reacted to "Good question" with 👍
+10:48:33 From  Muhammad Uzair-177637  to  Everyone:
+	sir agr hamra pass cat and dog images 1 hi folder ma ho phar bhe model khud classes ko identify kar la ga
+10:48:41 From  Malik Sahab  to  Everyone:
+	single folder with 25000 images
+10:48:53 From  Farooq  to  Everyone:
+	I saw the word break somewhere in the pretrained network's code...we should execute that also now
+10:50:30 From  Muhammad Uzair-177637  to  Everyone:
+	sir agr hamra pass cat and dog images 1 hi folder ma ho phar bhe model khud classes ko identify kar la ga
+10:51:00 From  Muhammad Uzair-177637  to  Everyone:
+	ok sir thank you
+10:52:08 From  Zoha  to  Everyone:
+	Sir at 11 am can we please take a short break?
+10:52:19 From  Hassan  to  Everyone:
+	Reacted to "Sir at 11 am can we ..." with 👍
+10:59:41 From  Irfan Ahmed  to  Everyone:
+	no voice
+10:59:46 From  Gohar  to  Everyone:
+	11:12
+10:59:58 From  Imran Ahmad  to  Everyone:
+	check your mic jack
+11:15:33 From  Maria Sheikh  to  Everyone:
+	g sir
+11:28:41 From  Suraiyya Jabeen  to  Everyone:
+	training , tabaah-obarbaad ho gaie
+11:29:33 From  Farooq  to  Everyone:
+	Reacted to "training , tabaah-ob..." with 😂
+11:31:26 From  Suraiyya Jabeen  to  Everyone:
+	Sir titanic ka data sahee rahey ga ?
+11:31:41 From  Hassan  to  Everyone:
+	Reacted to "Sir titanic ka data ..." with 😯
+11:32:25 From  Gohar  to  Everyone:
+	😅😀
+11:32:26 From  Suraiyya Jabeen  to  Everyone:
+	Thanks
+11:34:09 From  Suraiyya Jabeen  to  Everyone:
+	Shaiba aur shuba , dono sahee hn
+11:37:14 From  Farooq  to  Everyone:
+	So best of both the worlds
+11:38:37 From  Suraiyya Jabeen  to  Everyone:
+	Reacted to "So best of both the ..." with 👏
+11:39:03 From  Suraiyya Jabeen  to  Everyone:
+	Shaieba , behtr h
+11:39:27 From  Zoha  to  Everyone:
+	Replying to "Shaieba , behtr h" 
+	
+	 What does this word mean?
+11:40:00 From  Naveed Salman-Isb  to  Everyone:
+	Replying to "Shaieba , behtr h"
+	
+	shuk
+11:40:31 From  Naveed Salman-Isb  to  Everyone:
+	Replying to "Shaieba , behtr h"
+	
+	doubtful
+11:41:08 From  Suraiyya Jabeen  to  Everyone:
+	Replying to "Shaieba , behtr h"
+	
+	Halka sa shak.  jaisey neelley rang pr sabz rang ki aik chhent(spray type) gir jaaye
+11:42:24 From  Ali Raza Azeemi  to  Everyone:
+	chemistry
+11:42:36 From  Farooq  to  Everyone:
+	Reacted to "chemistry" with 👍
+11:43:07 From  Suraiyya Jabeen  to  Everyone:
+	Sir data freez side se Andar jaayee ga thorra thandda ho ga , phir layers m jaaye ga . phir tayyar ho jaayee ga
+11:43:18 From  Iftikhar Saeed  to  Everyone:
+	visualize please . do not totata
+11:47:53 From  Suraiyya Jabeen  to  Everyone:
+	Sir ye dono alg alg .IF, hn na ye nested nahee hoon ge
+11:48:20 From  Irfan Ahmed  to  Everyone:
+	else tu last IF ka saat hai
+11:48:43 From  Syed Daud Ali Naqvi  to  Everyone:
+	hhahahaha yes dir
+11:48:48 From  Gohar  to  Everyone:
+	Hahaha
+11:48:54 From  Muneeb(PIAIC173219)  to  Everyone:
+	Reacted to "hhahahaha yes dir" with 😂
+11:48:56 From  MUHAMMAD TAHIR  to  Everyone:
+	Reacted to "hhahahaha yes dir" with 😂
+11:48:58 From  MUHAMMAD TAHIR  to  Everyone:
+	Removed a 😂 reaction from "hhahahaha yes dir"
+11:48:59 From  Syed Daud Ali Naqvi  to  Everyone:
+	Reacted to "hhahahaha yes dir" with 😂
+11:49:01 From  Syed Daud Ali Naqvi  to  Everyone:
+	Removed a 😂 reaction from "hhahahaha yes dir"
+11:49:03 From  Abdul Qadar  to  Everyone:
+	Reacted to "hhahahaha yes dir" with 😂
+11:49:05 From  Muhammad Zuhair Abbas  to  Everyone:
+	😄
+11:49:19 From  Irfan Ahmed  to  Everyone:
+	no voice
+11:49:49 From  Zoha  to  Everyone:
+	Replying to "Shaieba , behtr h" 
+	
+	 Thank you for the explanation.Among many english experts it is quite refreshing to see someone with expertise in our mother tongue.
+11:51:34 From  Farooq  to  Everyone:
+	Reacted to "Thank you for the ex..." with 👍
+11:52:13 From  Irfan Ahmed  to  Everyone:
+	Reacted to "Thank you for the ex..." with 👍
+11:52:15 From  Irfan Ahmed  to  Everyone:
+	Reacted to "Halka sa shak.  jais..." with 👍
+11:54:25 From  Suraiyya Jabeen  to  Everyone:
+	Sir , book m 5.15 k baad k pages nahee hn

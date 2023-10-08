@@ -1,0 +1,382 @@
+08:53:44 From  Shoaib PIAIC-178354  to  Everyone:
+	Salam
+09:02:25 From  Farooq  to  Everyone:
+	@AmirRashid your SQL class
+09:02:59 From  Farooq  to  Everyone:
+	sorry, couldn't complete the message, just wanted to ask if your SQL class took place or not?
+09:03:53 From  Amir Rashid  to  Everyone:
+	Replying to "@AmirRashid your SQL..."
+	
+	this coming week
+09:04:10 From  asghar ibraheem baloch CNC-012105  to  Everyone:
+	AOA to all
+09:04:14 From  Amir Rashid  to  Everyone:
+	Replying to "sorry, couldn't comp..."
+	
+	it will
+09:05:12 From  Nasir Hussain (Faculty)  to  Everyone:
+	starting in a few minutes.
+09:05:35 From  Amir Rashid  to  Everyone:
+	Reacted to "starting in a few mi..." with 👍
+09:07:43 From  Usman Noor  to  Everyone:
+	wswrwb
+09:11:59 From  Hifza  to  Everyone:
+	sir apki voice bht slow arahi
+09:12:15 From  asghar ibraheem baloch CNC-012105  to  Everyone:
+	Yrs
+09:17:39 From  Amir Rashid  to  Everyone:
+	zoom a little bit
+09:18:44 From  Amir Rashid  to  Everyone:
+	ok
+09:23:36 From  Mohammad Javed  to  Everyone:
+	PIAIC185754-Mohammad Javed
+09:24:40 From  Muhammad Sadullah  to  Everyone:
+	was there any class in last week or no due to Eid?
+09:24:56 From  Shoaib PIAIC-178354  to  Everyone:
+	Salam Sir,
+09:25:02 From  Nasir Hussain (Faculty)  to  Everyone:
+	no it as off
+09:25:04 From  Hifza  to  Everyone:
+	no class
+09:25:18 From  Nasir Hussain (Faculty)  to  Everyone:
+	ws
+09:25:38 From  Shoaib PIAIC-178354  to  Everyone:
+	last class me aap ne fine tunning samjha Diya tha aur colab par per karne ko Diya tha...
+09:25:51 From  Mohammad Javed  to  Everyone:
+	Salam to everyone
+09:26:01 From  Muhammad Sadullah  to  Everyone:
+	walaikum salam
+09:32:30 From  Hifza  to  Everyone:
+	sir rnn kb start hoga?
+09:48:31 From  Haider Ali-PIAIC179345  to  Everyone:
+	from tensorflow.keras.models import load_model		# Load the model	model = load_model('path/to/model.h5')
+09:50:19 From  Hassan  to  Everyone:
+	model = load_model('path/to/model.h5')
+09:50:32 From  Salma Asif  to  Everyone:
+	model = tf.keras.models.load_model("file path")
+09:51:04 From  Hassan  to  Everyone:
+	from keras.models import load_model
+09:56:36 From  Ali Raza Azeemi  to  Everyone:
+	Reacted to "fine_tuning.ipynb" with 👍
+09:59:49 From  Amir Rashid  to  Everyone:
+	Reacted to "fine_tuning.ipynb" with 👍
+10:20:08 From  Suraiyya Jabeen  to  Everyone:
+	جی سر
+10:20:12 From  Waqas Ali (PIAIC183280)  to  Everyone:
+	Sir ab Bard AI bhi aa gya he
+10:20:15 From  Suraiyya Jabeen  to  Everyone:
+	کایا پلٹ جانا
+10:20:34 From  Amir Rashid  to  Everyone:
+	Replying to "Sir ab Bard AI bhi a..."
+	
+	?
+10:21:36 From  Waqas Ali (PIAIC183280)  to  Everyone:
+	Replying to "Sir ab Bard AI bhi a..."
+	
+	Chat GPT jesa he Bard AI Google ka he
+10:21:52 From  Amir Rashid  to  Everyone:
+	Replying to "Sir ab Bard AI bhi a..."
+	
+	Thanks
+10:21:56 From  HuzaifaTahir  to  Everyone:
+	Replying to "Sir ab Bard AI bhi a..."
+	
+	Sir kindly ik review dy dain RNN or Transformers k difference ka.
+10:22:57 From  Zoha  to  Everyone:
+	I missed last 10 mins of class .what is sir teaching right now?
+10:23:12 From  Hassan  to  Everyone:
+	Break sir plz
+10:23:25 From  Hassan  to  Everyone:
+	yes sir
+10:23:39 From  Haider Ali-PIAIC179345  to  Everyone:
+	10:30
+10:24:03 From  Amir Rashid  to  Everyone:
+	breakfast break
+10:24:20 From  Amir Rashid  to  Everyone:
+	hehehe
+10:24:23 From  Ali Raza Azeemi  to  Everyone:
+	Reacted to "hehehe" with 👍
+10:24:59 From  Waqas Ali (PIAIC183280)  to  Everyone:
+	sir recording off ker dain
+10:25:07 From  Amir Rashid  to  Everyone:
+	hehehe
+10:25:22 From  Amir Rashid  to  Everyone:
+	Sir, you are too good
+10:26:31 From  Muhammad Khalil  to  Everyone:
+	yes, please upload on portal.
+10:26:55 From  Naveed Salman - Isb  to  Everyone:
+	I am not getting on my Portal
+10:27:13 From  Amir Rashid  to  Everyone:
+	ai education YouTube channel
+10:27:45 From  Naveed Salman - Isb  to  Everyone:
+	Aameen
+10:28:18 From  Waqas Ali (PIAIC183280)  to  Everyone:
+	https://www.youtube.com/@aieducation7141
+10:28:33 From  Waqas Ali (PIAIC183280)  to  Everyone:
+	bookmark kar lo
+10:31:28 From  Raja Atif aziz  to  Everyone:
+	Thanks
+10:32:45 From  Amir Rashid  to  Everyone:
+	yes sir
+10:32:47 From  Zeeshan  to  Everyone:
+	yes sir
+10:32:49 From  Waqas Ali (PIAIC183280)  to  Everyone:
+	g sir
+10:32:53 From  Haider Ali-PIAIC179345  to  Everyone:
+	g sir
+10:32:54 From  SANA  to  Everyone:
+	yes sir
+10:33:35 From  Salma Asif  to  Everyone:
+	recording
+10:33:41 From  Subhan Ahmed - 188523  to  Everyone:
+	recording is paused
+10:35:17 From  Naveed Salman - Isb  to  Everyone:
+	Recorded lectures on Student Portal is requested, plz.
+10:35:56 From  Muhammad Khalil  to  Everyone:
+	I just checked, now lectures are available on portal.
+10:36:13 From  Amir Rashid  to  Everyone:
+	Reacted to "I just checked, now ..." with 👍
+10:38:53 From  Amir Rashid  to  Everyone:
+	word=segment=token
+10:39:18 From  Naveed Salman - Isb  to  Everyone:
+	Reacted to "I just checked, now ..." with 👍
+10:39:31 From  Naveed Salman - Isb  to  Everyone:
+	Thanks
+10:41:12 From  Amir Rashid  to  Everyone:
+	group of tokens
+10:41:56 From  Amir Rashid  to  Everyone:
+	accumulated words
+10:44:05 From  Shoaib PIAIC-178354  to  Nasir Hussain (Faculty)(Direct Message):
+	Zoom ka whiteboards use kar lain paint ki bajaye...
+10:46:02 From  Amir Rashid  to  Everyone:
+	supporting words excluded
+10:48:10 From  Basit Farooq  to  Everyone:
+	Assalamuaalikum, I'll appreciate if anyone can please share the Google Drive Link for downloading the study material of Q3?
+10:49:33 From  Ali Raza Azeemi  to  Everyone:
+	WS, https://drive.google.com/drive/folders/1ZZjddzcjnJFq3Z4hdPXIY_4B5_-C4vNw
+10:52:35 From  Suraiyya Jabeen  to  Everyone:
+	Sir ka kuch khayal kren
+10:53:34 From  Suraiyya Jabeen  to  Everyone:
+	Sir bilkul theek ho jaen, behr haal Aamir bhaaie zinda baad
+10:54:17 From  Amir Rashid  to  Everyone:
+	Reacted to "Sir bilkul theek ho ..." with 👍
+10:54:26 From  Amir Rashid  to  Everyone:
+	Replying to "Sir bilkul theek ho ..."
+	
+	keep it in mind
+10:59:50 From  Haider Ali-PIAIC179345  to  Everyone:
+	import numpy as np	samples = ['The cat sat on the mat.', 'The dog ate my homework.']	token_index = {}	for sample in samples:	  for word in sample.split():	    if word not in token_index:	      token_index[word] = len(token_index) + 1
+11:05:53 From  SANA  to  Everyone:
+	10
+11:08:03 From  Zoha  to  Everyone:
+	Library name?
+11:08:23 From  Zoha  to  Everyone:
+	Okay 👍
+11:19:39 From  Suraiyya Jabeen  to  Everyone:
+	Sir Kia isey "Talkhees " keh sktey hn
+11:20:03 From  Suraiyya Jabeen  to  Everyone:
+	Thanks
+11:21:11 From  Suraiyya Jabeen  to  Everyone:
+	G
+11:26:51 From  Haider Ali-PIAIC179345  to  Everyone:
+	g sir
+11:26:54 From  Amir Rashid  to  Everyone:
+	good knowledge sharing
+11:27:35 From  Amir Rashid  to  Everyone:
+	https://docs.streamlit.io
+11:30:29 From  Amir Rashid  to  Everyone:
+	sir, kindly refer your Django/flask class video
+11:31:05 From  Zoha  to  Everyone:
+	Replying to "sir, kindly refer yo..." 
+	
+	 Its available in ai education channel
+11:31:14 From  Zoha  to  Everyone:
+	Replying to "sir, kindly refer yo..." 
+	
+	 Check his q1 playlist
+11:31:25 From  Amir Rashid  to  Everyone:
+	Reacted to "Check his q1 playlis..." with 👍
+11:31:26 From  Zoha  to  Everyone:
+	Replying to "sir, kindly refer yo..." 
+	
+	 It will be there at the end
+11:35:06 From  Nasim  to  Everyone:
+	Mute
+11:35:36 From  Nasir Hussain (Faculty)  to  Everyone:
+	https://nlp.stanford.edu/projects/glove/
+11:36:30 From  Nasim  to  Everyone:
+	Yes sir
+11:37:00 From  Syed Daud Ali Naqvi  to  Everyone:
+	try from another browser
+11:37:53 From  Farooq  to  Everyone:
+	is this the exact file to be downloaded? glove.6B.zip
+11:38:03 From  Ali Raza Azeemi  to  Everyone:
+	yes
+11:38:11 From  Farooq  to  Everyone:
+	Thank you
+11:40:15 From  IMRAN KHALID  to  Everyone:
+	Replying to "sir, kindly refer yo..."
+	
+	plz share the link
+11:40:38 From  Muhammad Khalil  to  Everyone:
+	key words are deducted to reply
+11:41:31 From  Zoha  to  Everyone:
+	Replying to "sir, kindly refer yo..." 
+	
+	 https://www.youtube.com/@aieducation7141
+11:42:30 From  Haider Ali-PIAIC179345  to  Everyone:
+	https://www.linkedin.com/pulse/discover-how-chatgpt-istrained-pradeep-menon/
+11:43:01 From  Suraiyya Jabeen  to  Everyone:
+	Sir ye kaam kaisey krta h . iss ko abhi DAJJALI SYSTEM samjh len
+11:43:33 From  Haider Ali-PIAIC179345  to  Everyone:
+	Replying to "https://www.linkedin..."
+	
+	@huzaifaTahir
+11:43:33 From  Suraiyya Jabeen  to  Everyone:
+	aur Isey ziyaa se Ziyad samjh len phir puhanch bhi jaen ge
+11:44:12 From  Amir Rashid  to  Everyone:
+	Reacted to "https://www.youtube...." with 👍
+11:44:49 From  Suraiyya Jabeen  to  Everyone:
+	Sir hamain apna internet bna k rakhna chaahye
+11:45:21 From  HuzaifaTahir  to  Everyone:
+	Replying to "https://www.linkedin..."
+	
+	Thanks bhai
+11:45:27 From  Suraiyya Jabeen  to  Everyone:
+	Tele pathy😁
+11:46:01 From  Suraiyya Jabeen  to  Everyone:
+	Allah khair krey . main ne baat ki h . mujhey Ghaieb na kr dn
+11:46:07 From  Amir Rashid  to  Everyone:
+	Replying to "aur Isey ziyaa se Zi..."
+	
+	??
+11:46:19 From  Suraiyya Jabeen  to  Everyone:
+	🤓
+11:46:23 From  Farooq  to  Everyone:
+	Please write what's telepathy in Urdu
+11:46:32 From  Zoha  to  Everyone:
+	Reacted to "Allah khair krey . m..." with 😂
+11:46:39 From  Nasim  to  Everyone:
+	Reacted to "Allah khair krey . m…" with 😂
+11:46:40 From  Ali Raza Azeemi  to  Everyone:
+	Reacted to "Tele pathy😁" with 👍
+11:46:40 From  Suraiyya Jabeen  to  Everyone:
+	Khayaal Khwaani
+11:46:41 From  Haider Ali-PIAIC179345  to  Everyone:
+	Reacted to "Thanks bhai" with 👍
+11:46:51 From  Nasim  to  Everyone:
+	Reacted to "Tele pathy😁" with 😳
+11:46:57 From  HuzaifaTahir  to  Everyone:
+	Reacted to "Allah khair krey . m..." with 😂
+11:46:59 From  HuzaifaTahir  to  Everyone:
+	Removed a 😂 reaction from "Allah khair krey . m..."
+11:47:01 From  Ali Raza Azeemi  to  Everyone:
+	inteqal e khayal
+11:47:12 From  Zoha  to  Everyone:
+	Reacted to "Khayaal Khwaani" with 👍
+11:47:18 From  Amir Rashid  to  Everyone:
+	Reacted to "Allah khair krey . m..." with 😂
+11:47:33 From  Muhammad Zaid Qasim 12248  to  Everyone:
+	sir means I can send you any information without any technology directly to you mind from my mind
+11:47:34 From  Farooq  to  Everyone:
+	MashAllah inteqal e khayal sounds awesome
+11:48:05 From  Waqas Ali (PIAIC183280)  to  Everyone:
+	telepathy apne damagh ki taqat se dusre ke damagh ko control krna
+11:48:29 From  Nasim  to  Everyone:
+	Reacted to "telepathy apne damag…" with 😳
+11:48:38 From  Amir Rashid  to  Everyone:
+	http://mng.bz/Otlo
+11:48:42 From  Farooq  to  Everyone:
+	Replying to "telepathy apne damag..."
+	
+	this is more like mesmerism
+11:49:02 From  Amir Rashid  to  Everyone:
+	Reacted to "this is more like me..." with 👍
+11:49:09 From  Zoha  to  Everyone:
+	Replying to "telepathy apne damag..." 
+	
+	 Mind control?
+11:49:31 From  Moeed Masood  to  Everyone:
+	the above lnk is not working
+11:49:40 From  Farooq  to  Everyone:
+	Replying to "telepathy apne damag..."
+	
+	Yes its mind control, which is done using mesmerism
+11:49:45 From  Amir Rashid  to  Everyone:
+	Reacted to "Mind control?" with 👍
+11:49:48 From  Haider Ali-PIAIC179345  to  Everyone:
+	Replying to "telepathy apne damag..."
+	
+	روحانی ارتباط
+11:49:51 From  Farooq  to  Everyone:
+	ok back to the lecture
+11:49:59 From  Amir Rashid  to  Everyone:
+	Reacted to "ok back to the lectu..." with 😂
+11:50:15 From  Zoha  to  Everyone:
+	Reacted to "ok back to the lectu..." with 😂
+11:50:22 From  ali ahmed khan  to  Everyone:
+	link is not working
+11:51:09 From  Muazzam Gill  to  Everyone:
+	mng.bz/0tIo
+11:52:12 From  Muneeb(PIAIC173219)  to  Everyone:
+	Reacted to "ok back to the lectu..." with 😂
+11:52:24 From  Amir Rashid  to  Everyone:
+	Reacted to "mng.bz/0tIo" with 👍
+11:52:38 From  Amir Rashid  to  Everyone:
+	Replying to "mng.bz/0tIo"
+	
+	working
+11:58:11 From  Nasim  to  Everyone:
+	Reacted to "mng.bz/0tIo" with 👍
+11:58:12 From  Nasim  to  Everyone:
+	Removed a 👍 reaction from "mng.bz/0tIo"
+11:58:26 From  Zoha  to  Everyone:
+	Please also send software name here
+11:58:59 From  HuzaifaTahir  to  Everyone:
+	https://quick-search1.software.informer.com/download/#downloading
+11:59:05 From  HuzaifaTahir  to  Everyone:
+	quicksearch
+11:59:10 From  Amir Rashid  to  Everyone:
+	Reacted to "https://quick-search..." with 👍
+11:59:25 From  HuzaifaTahir  to  Everyone:
+	Reacted to "https://quick-search..." with 👍
+11:59:25 From  HuzaifaTahir  to  Everyone:
+	Removed a 👍 reaction from "https://quick-search..."
+12:03:06 From  Nasim  to  Everyone:
+	Sir agar text positive aur negative k folder mai para ho
+12:05:17 From  Amir Rashid  to  Everyone:
+	kindly share link 2nd download file
+12:06:12 From  Amir Rashid  to  Everyone:
+	yes
+12:09:48 From  Amir Rashid  to  Everyone:
+	kindly share link 2nd download file
+12:09:56 From  Amir Rashid  to  Everyone:
+	Reacted to "text_learning.ipynb" with 👍
+12:10:01 From  Amir Rashid  to  Everyone:
+	Reacted to "finetuning.ipynb" with 👍
+12:10:09 From  Amir Rashid  to  Everyone:
+	Reacted to "pre_trained.ipynb" with 👍
+12:10:46 From  Zoha  to  Everyone:
+	Moeed plz share ipynb files in whatsapp group.plz
+12:10:56 From  Zoha  to  Everyone:
+	Can't download it from here
+12:11:09 From  Amir Rashid  to  Everyone:
+	Reacted to "cats_and_dogs_small_3.h5" with 👍
+12:11:30 From  Amir Rashid  to  Everyone:
+	Reacted to "Moeed plz share ipyn..." with 👍
+12:12:29 From  Farooq  to  Everyone:
+	https://youtu.be/NNSHu0rkew8
+12:12:34 From  Subhan Ahmed - 188523  to  Everyone:
+	sir, pause the recording please
+12:12:43 From  Amir Rashid  to  Everyone:
+	Reacted to "https://youtu.be/NNS..." with 👍
+12:12:45 From  Farooq  to  Everyone:
+	above is powerBi in 10 minutes a quick start
+12:13:00 From  Muneeb(PIAIC173219)  to  Everyone:
+	Reacted to "above is powerBi in ..." with 👍
+12:13:16 From  Amir Rashid  to  Everyone:
+	Replying to "above is powerBi in ..."
+	
+	its wonderful
+12:13:36 From  Suraiyya Jabeen  to  Everyone:
+	sir sub ne channel khoal liya h

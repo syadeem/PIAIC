@@ -1,0 +1,256 @@
+09:04:53 From Zeeshan To Everyone:
+	No sound ??
+09:09:48 From PIAIC-AI To Everyone:
+	https://medium.com/analytics-vidhya/how-to-download-kaggle-datasets-into-google-colab-via-google-drive-dcb348d7af07
+09:12:43 From Mahzeb Saleem To Everyone:
+	Do we have class today?
+09:12:54 From imtiaz ahmad To Everyone:
+	yes
+09:12:55 From PIAIC-AI To Everyone:
+	yes
+09:13:13 From Zoha To Everyone:
+	Anus can you plz share the file for reference for us?
+09:13:28 From Waqas Ali (PIAIC183280) To Everyone:
+	https://colab.research.google.com/drive/1DWnguXXcttJsYH7gDpuvUV3x3sxY0ckH?usp=sharing
+09:13:32 From Mahzeb Saleem To Everyone:
+	Reacted to yes with "👍"
+09:13:37 From Mahzeb Saleem To Everyone:
+	Reacted to yes with "👍"
+09:16:55 From abdul-qadir To Everyone:
+	Video Recording??
+09:18:09 From Haider Ali To Everyone:
+	Record sir. It will help others
+09:49:20 From PIAIC-AI To Everyone:
+	https://medium.com/analytics-vidhya/how-to-download-kaggle-datasets-into-google-colab-via-google-drive-dcb348d7af07
+09:50:40 From Malik Sahab To Everyone:
+	Sir input image k size say training per koi effect ho ga?
+09:50:48 From Ammad Mughal (PIAIC 173548) To Everyone:
+	No sir.
+09:51:51 From PIAIC-AI To Everyone:
+	https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
+09:51:54 From Ammad Mughal (PIAIC 173548) To Everyone:
+	Sir right sir!
+09:52:28 From Ammad Mughal (PIAIC 173548) To Everyone:
+	A little bit...
+09:52:31 From Waqas Ali (PIAIC183280) To Everyone:
+	no sir
+09:52:35 From Hamza To Everyone:
+	why not Django?
+09:52:36 From mn To Everyone:
+	yes
+09:52:43 From abdul-qadir To Everyone:
+	no
+09:52:52 From Hamza To Everyone:
+	Okay sir.
+09:53:18 From PIAIC-AI To Everyone:
+	https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
+09:53:40 From Ammad Mughal (PIAIC 173548) To Everyone:
+	2nd Edition?
+09:53:58 From Zoha To Everyone:
+	Plz also whatsapp the book
+09:55:33 From Moattar Khanum To Everyone:
+	book?
+09:55:49 From Zoha To Everyone:
+	Its a python library
+09:55:52 From Ammad Mughal (PIAIC 173548) To Everyone:
+	✋
+09:55:56 From Ammad Mughal (PIAIC 173548) To Everyone:
+	a micro-framework
+09:55:57 From Aiman 07 To Everyone:
+	Web framework
+09:55:59 From Waqas Ali (PIAIC183280) To Everyone:
+	fram work
+09:56:45 From Zoha To Everyone:
+	Plz send all of this in the WhatsApp plz
+09:56:48 From Ammad Mughal (PIAIC 173548) To Everyone:
+	Yes
+09:56:53 From abdul-qadir To Everyone:
+	yes
+09:58:08 From Waqas Ali (PIAIC183280) To Everyone:
+	ok sir
+09:58:39 From PIAIC-AI To Everyone:
+	conda create -p venv python==3.10 -y
+09:59:09 From Mohammad Javed To Everyone:
+	Mohammad Javed PIAIC185754
+10:00:27 From mn To Everyone:
+	python -m venv venv
+10:00:32 From Ammad Mughal (PIAIC 173548) To Everyone:
+	'python -m venv venv' can also be used to create environment
+10:01:13 From mn To Everyone:
+	venv\Scripts\activate.bat
+10:02:01 From Ammad Mughal (PIAIC 173548) To Everyone:
+	g
+10:07:34 From Naveed Khattak To Everyone:
+	sir virtual environment Q create krte hn?
+10:08:44 From abdul-qadir To Everyone:
+	yes Sir
+10:09:06 From Qayyum PIAIC178438 To Everyone:
+	Next Quiz ka slybus kia ho ga?
+10:10:38 From imtiaz ahmad To Everyone:
+	to run flask framework
+10:10:45 From fozia To Everyone:
+	we want to avoid conflict between different versions
+10:10:55 From Ammad Mughal (PIAIC 173548) To Everyone:
+	To create a separate environment for a project which avoide conflicts
+10:11:20 From Waqas Ali (PIAIC183280) To Everyone:
+	sir pip install requirement.txt yehi command he
+10:11:54 From Malik Sahab To Everyone:
+	Replying to "sir pip install requ..."
+	
+	pip install -r requirements.txt
+10:12:04 From Waqas Ali (PIAIC183280) To Everyone:
+	Replying to "sir pip install requ..."
+	
+	thanks
+10:16:16 From Ammad Mughal (PIAIC 173548) To Everyone:
+	Rest is just a standard for making APIs.
+10:22:56 From Waqas Ali (PIAIC183280) To Everyone:
+	smart git se
+10:24:40 From Amir Rashid To Everyone:
+	Reacted to "smart git se" with 👍
+10:25:15 From imtiaz ahmad To Everyone:
+	zar10 sir
+10:25:34 From Amir Rashid To Everyone:
+	Reacted to "zar10 sir" with 👍
+10:34:34 From Moeed Masood To Everyone:
+	sir ne app run ki command kiya likhi hai?
+10:34:57 From Muhammad Uzair To Everyone:
+	python app.py
+10:35:41 From Moeed Masood To Everyone:
+	thanks
+10:36:54 From Ammad Mughal (PIAIC 173548) To Everyone:
+	directive?
+10:37:00 From M.Dawar To Everyone:
+	decorator
+10:42:56 From GOHAR To Everyone:
+	Yes sir
+10:44:01 From Ammad Mughal (PIAIC 173548) To Everyone:
+	git add -A
+10:57:28 From Zoha To Everyone:
+	-m means?
+10:58:10 From Ammad Mughal (PIAIC 173548) To Everyone:
+	add the message should always between double quotes ""...
+11:03:22 From Aiman 07 To Everyone:
+	Sir function q bnaate  hain home ka?
+11:04:04 From Malik Sahab To Everyone:
+	two functions are named home
+11:06:51 From Moattar Khanum To Everyone:
+	how to env conda env
+11:07:48 From Moattar Khanum To Everyone:
+	ok thank u
+11:08:02 From fozia To Everyone:
+	why it is so
+11:09:30 From fozia To Everyone:
+	render is for whatever we want to show as interface
+11:09:32 From Ammad Mughal (PIAIC 173548) To Everyone:
+	Replying to "{DBC0CCA5-C503-4E98-AC63-EEF5470EFFDD}.png"
+	
+	venv spellings!
+11:12:24 From fozia To Everyone:
+	see by user
+11:13:15 From Suraiyya Jabeen To Everyone:
+	Render k means پیش کش
+11:14:39 From fozia To Everyone:
+	sir plz applt tailwind
+11:14:56 From Suraiyya Jabeen To Everyone:
+	ہماری طرف نیٹ چل کر ہی نہیں دے رہا۔ بہت جھٹکے کھا رہا ہے
+11:15:03 From fozia To Everyone:
+	yes sir
+11:15:24 From Suraiyya Jabeen To Everyone:
+	😀😀
+11:15:39 From fozia To Everyone:
+	plz apply tailwind
+11:16:38 From fozia To Everyone:
+	css
+11:17:34 From Asghar Ibraheem Baloch CNC012105 To Everyone:
+	Get request hy
+11:23:54 From Amir Rashid To Everyone:
+	good
+11:23:57 From fozia To Everyone:
+	yes sir
+11:27:01 From fozia To Everyone:
+	back tick
+11:27:48 From Asghar Ibraheem Baloch CNC012105 To Everyone:
+	Accessing request data check krien doc main
+11:29:21 From Farhan Younas(2020-ag-6562) To Everyone:
+	koi btaa skta hai k ye web app bany gi ya mob app??
+11:29:25 From fozia To Everyone:
+	can we use backtick
+11:29:41 From Zoha To Everyone:
+	Web app
+11:30:01 From Farhan Younas(2020-ag-6562) To Everyone:
+	ok lekin agar mob app bnani ho to kya is se ban jaye gi??
+11:30:08 From Ammad Mughal (PIAIC 173548) To Everyone:
+	use data.name
+11:30:38 From fozia To Everyone:
+	apply if then use
+11:31:31 From Asghar Ibraheem Baloch CNC012105 To Everyone:
+	Sir net py check kr lien how to access flask app data into html
+11:31:51 From Ammad Mughal (PIAIC 173548) To Everyone:
+	@app.route("/")	def home():	    name = input("Please tell me your name:")	    return render_template("home.html", data = {"name": 'Ammad'})
+11:31:58 From M.Dawar To Everyone:
+	{{data.name}}
+11:32:00 From Ammad Mughal (PIAIC 173548) To Everyone:
+	<h1>Home</h1>	    <h2>This is home page: {{ data.name }}</h2>
+11:32:09 From fozia To Everyone:
+	apply if else for time being
+11:37:12 From fozia To Everyone:
+	we can say type =button
+11:38:07 From fozia To Everyone:
+	result
+11:42:54 From fozia To Everyone:
+	methods or method
+11:43:36 From Zoha To Everyone:
+	Replying to "ok lekin agar mob ap..." 
+	
+	 No us k lia different libs and language use hoti he. Not sure but i think its called flutter.
+11:45:40 From fozia To Everyone:
+	spelling
+11:47:52 From fozia To Everyone:
+	input type is text
+11:48:53 From fozia To Everyone:
+	it should be number
+11:49:21 From IRFAN KHATTAK To Everyone:
+	{{'result'}}   ?
+11:50:52 From Amir Rashid To Everyone:
+	done
+11:53:21 From Ammad Mughal (PIAIC 173548) To Everyone:
+	👍🏻
+11:54:57 From fozia To Everyone:
+	quotes
+11:57:01 From fozia To Everyone:
+	sir it is awesome
+12:01:51 From fozia To Everyone:
+	jsonview
+12:02:04 From Ammad Mughal (PIAIC 173548) To Everyone:
+	already Done
+12:02:25 From fozia To Everyone:
+	SQLite?
+12:04:42 From fozia To Everyone:
+	database
+12:06:39 From Ammad Mughal (PIAIC 173548) To Everyone:
+	API is used just to expose your data in different formats like JSON... Front-end is not required to develop API. However, a front-end is separately developed which consumes that API and display Data in easily readable formats...
+12:06:57 From fozia To Everyone:
+	sqlite
+12:07:07 From Farooq To Everyone:
+	Reacted to "API is used just to ..." with 👍
+12:07:25 From Amir Rashid To Everyone:
+	Reacted to "API is used just to ..." with 👍
+12:08:41 From fozia To Everyone:
+	will we use database too?
+12:09:14 From sadafmansoorPIAIC84989 To Everyone:
+	Sir Hugging face k tokens use krskty haen??
+12:10:10 From fozia To Everyone:
+	sir aik ecommerce bana lein full
+12:10:28 From Naveed Khattak To Everyone:
+	mysql
+12:11:07 From Ammad Mughal (PIAIC 173548) To Everyone:
+	😅
+12:11:16 From fozia To Everyone:
+	sir Thanks a lot , it was amazing
+12:11:17 From Muazzam Gill To Everyone:
+	video kab upload ho gi
+12:13:54 From fozia To Everyone:
+	pages access
+12:14:39 From fozia To Everyone:
+	routes r like web pages access
