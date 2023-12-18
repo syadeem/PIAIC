@@ -1,0 +1,90 @@
+18:57:13 From Amir Rasheed to Everyone:
+	pytorch, don't thing so
+18:58:16 From Mohammad Javed to Everyone:
+	MOHAMMAD JAVED PIAIC-185754
+18:59:37 From Muhammad Mehroz to Everyone:
+	https://drive.google.com/drive/folders/1Jr_2_AuyrZUgjf2VJyyAjIVdET_IclPv
+18:59:45 From Yousuf Saeed to Everyone:
+	https://drive.google.com/drive/folders/1Jr_2_AuyrZUgjf2VJyyAjIVdET_IclPv?usp=sharing
+18:59:49 From Huzaifa to Everyone:
+	https://drive.google.com/drive/folders/1Jr_2_AuyrZUgjf2VJyyAjIVdET_IclPv?usp=sharing
+18:59:53 From Amir Rasheed to Everyone:
+	import cv2	import numpy as np		# create a numpy array filled with zeors to use as a blank image	image = np.zeros((512, 512, 3), np.uint8)		# draw a green line on the image	cv2.line(image, (0, 0), (511, 511), (0, 255, 0), 5)		# draw a red rectangle on the image	cv2.rectangle(image, (384, 0), (510, 128), (0, 0, 255), 3)		# draw a blue circle on the image	cv2.circle(image, (447, 63), 63, (255, 0, 0), -1)		# display the image	cv2.imshow("Image", image)		# wait for a key press and then close the window	cv2.waitKey(0)	cv2.destroyAllWindows()
+18:59:57 From Ashraf Makhdoom Syed to Everyone:
+	https://drive.google.com/drive/folders/1Jr_2_AuyrZUgjf2VJyyAjIVdET_IclPv
+18:59:57 From Sehrish Fatima-Isb to Everyone:
+	https://drive.google.com/drive/folders/1Jr_2_AuyrZUgjf2VJyyAjIVdET_IclPv?usp=sharing
+19:00:10 From naurez to Everyone:
+	Amir bhai
+19:00:10 From Naveed I Salman to Everyone:
+	https://drive.google.com/drive/folders/1Jr_2_AuyrZUgjf2VJyyAjIVdET_IclPv
+19:00:15 From SYED MUSTJAB HYDER to Everyone:
+	https://drive.google.com/drive/folders/1Jr_2_AuyrZUgjf2VJyyAjIVdET_IclPv
+19:00:27 From Amir Rasheed to Everyone:
+	Reacted to "Amir bhai" with ❤️
+19:09:36 From Amir Rasheed to Everyone:
+	Replying to "8 to 10pm"
+	
+	how many classes streamed/done
+19:10:00 From Farooq to Everyone:
+	Replying to "8 to 10pm"
+	
+	3
+19:10:29 From Farooq to Everyone:
+	Replying to "8 to 10pm"
+	
+	before that were 12 classes of modern python
+19:10:44 From Farooq to Everyone:
+	Replying to "8 to 10pm"
+	
+	12 or 18, don't remember, 1 class each day
+19:11:20 From Amir Rasheed to Everyone:
+	Reacted to "12 or 18, don't reme..." with 😯
+19:11:49 From Amir Rasheed to Everyone:
+	Replying to "8 to 10pm"
+	
+	will discuss tomorrow ?
+19:12:15 From Batch 37 PIAIC to Everyone:
+	class ??
+19:12:45 From imtiaz ahmad to Everyone:
+	w.asssalam sir
+19:12:51 From Haseeb Iqbal to Everyone:
+	Yes Sir
+19:12:58 From Mohammad Javed to Everyone:
+	Yes sir
+19:18:15 From PIAIC-AI to Everyone:
+	https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/hub/tutorials/object_detection.ipynb
+19:19:10 From naurez to Everyone:
+	open ho gyi
+19:20:13 From naurez to Everyone:
+	download ho ri ha
+19:20:57 From Suraiyya Jabeen to Everyone:
+	Sir
+19:23:44 From Naveed Khan to Everyone:
+	image editing
+19:25:14 From Suraiyya Jabeen to Everyone:
+	جی سر ۔ امیج پر ڈرائنگ کرتے  تھے ۔
+19:25:27 From Zoha to Everyone:
+	Sir jis book ko follow krae hen deep learning ki ? Uska edition konsa he?
+19:32:24 From imtiaz ahmad to Everyone:
+	2nd edition
+19:33:04 From Zoha to Everyone:
+	Replying to "2nd edition" 
+	
+	 Jazak Allah
+19:35:47 From Subhan Ahmed - 188523 to Everyone:
+	what does 'pil_image' does ?
+19:36:59 From Irfan Ahmed to Everyone:
+	Replying to "what does 'pil_image..."
+	
+	variable name hai
+19:37:14 From Subhan Ahmed - 188523 to Everyone:
+	Replying to "what does 'pil_image..."
+	
+	ok, thanks
+19:40:32 From Zoha to Everyone:
+	Drying image means?  i missed that part
+19:41:07 From naurez to Everyone:
+	smallest unit
+19:51:40 From Subhan Ahmed - 188523 to Everyone:
+	how do we finf left, right, top and bottom of our box ?
